@@ -1,2 +1,3 @@
 ide-config.txt
+ide-config
 .gitignore.bak
