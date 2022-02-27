@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
 	<meta charset="UTF-8">
-	<title>Cursos da Alura</title>
+	<title>Lista de Cursos de DevOps da Alura</title>
 </head>
 <body>
 	<ul>
@@ -10,6 +10,11 @@
 		<li>Docker</li>
 		<li>Ansible</li>
 		<li>Integração Contínua</li>
+<<<<<<< HEAD
+		<li>Kubernetes</li>
+=======
+		<li>Docker: Criando containers sem dor de cabeça</li>
+>>>>>>> b69c06939a86017a5e217820142fbf87bde77045
 	</ul>
 </body>
 </html>	
